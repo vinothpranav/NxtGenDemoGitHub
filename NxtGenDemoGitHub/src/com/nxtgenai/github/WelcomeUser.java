@@ -6,8 +6,11 @@ public class WelcomeUser {
 		
 		System.out.println("Welcome to Github Class");
 		
-		// Code added by automation team
+		// Code added by automation team 
 		System.out.println("Thanks you");
+		
+		// Code added by xyz
+		System.out.println("Code Updated");
 	}
 
 }
